@@ -1,0 +1,23 @@
+.flex-container{display: flex;background-color: pink;height: 50px;}
+
+.flex-container a {padding: 10px; text-align:center;width: 20%;height: 30px;background-color: powderblue;border: 1px solid white}
+
+header{background-color: gray;height: 80px; text-align: center;padding-top: 10px;margin-bottom: 15px}
+
+.flex-container-2{display: flex;background-color: lightgray;height: 250px;margin-top: 10px}
+
+.flex-container-2 article{padding-left: 30px;color: black}
+
+.flex-container-3 {display: flex; background-color:blue;margin-top: 20px;height: 300px}
+
+.flex-container-3  article{padding: 0px 20px; color: white;line-height: 20px;font-size: 22px;}
+
+.flex-container-3 video{margin: 10px;}
+
+.flex-container-4 {display: flex;background-color: pink;}
+
+.flex-container-4 figure figcaption {text-align: center;}
+
+footer{background-color: gray;text-align: center;}
+
+#e1 {direction: rtl;}
